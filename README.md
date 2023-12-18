@@ -1,11 +1,13 @@
-### Olá, Seja bem-vindo!
+## Welcome! I'm Talita and I develop mobile applications.
 
 ##
-<div style="display: inline_block"><br>
-  <img align="center" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
+
+#### Technologies
+
+<div style="display: inline_block">
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="center" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
 </div>
 
-##
 
-![Snake animation](https://github.com/talitacodes/talitacodes/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/talitacodes/talitacodes/blob/output/github-contribution-grid-snake.svg) -->
