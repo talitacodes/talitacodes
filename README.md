@@ -1,4 +1,4 @@
-## Welcome! I'm Talita and I develop mobile applications.
+## Welcome! I'm Talita and I develop mobile applications 📲
 
 ### Technologies
 
