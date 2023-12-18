@@ -1,8 +1,6 @@
 ## Welcome! I'm Talita and I develop mobile applications.
 
-##
-
-#### Technologies
+### Technologies
 
 <div style="display: inline_block">
   <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
